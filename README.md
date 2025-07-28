@@ -14,7 +14,7 @@ Features:
 - Multilingual Support: English & Bulgarian
 - Simulation Mode: Test inputs/outputs without live hardware
 
-Technology Stack
+Technology Stack:
 - Python 3.10+
 - Flet: UI framework (Flutter)
 - Modbus TCP: PLC communication protocol
@@ -22,6 +22,6 @@ Technology Stack
 - Modicon M221 PLC: Industrial automation controller
 - EcoStruxure Machine Expert - Basic: PLC programming environment
 
-License & Credits
+License & Credits:
 - Developed by: Georgi Milenov Sokolov as Bachelor's Thesis, Technical University of Varna
 - Licensed for academic and personal use
