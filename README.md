@@ -26,10 +26,10 @@ Instalation:
 - The App can be built with "flet pack main_app.py" in the Terminal
 
 Instructions:
-- For the App to function properly, both the built app executable and a simulation need to be runnung.
-- To run the simulation open Building.smbp in EcoStruxure Machine Expert - Basic and under Comissioning:
-  - press Launch simulator;
-  - then Start Controller.  
+- For the App to function properly, both the built App executable and a Simulation need to be runnung.
+- To run the Simulation open Building.smbp in EcoStruxure Machine Expert - Basic and under "Comissioning":
+  - press "Launch simulator";
+  - then "Start Controller".  
 
 License & Credits:
 - Developed by: Georgi Milenov Sokolov as Bachelor's Thesis, Technical University of Varna
