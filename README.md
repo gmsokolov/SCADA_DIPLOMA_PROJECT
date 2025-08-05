@@ -23,7 +23,7 @@ Technology Stack:
 - EcoStruxure Machine Expert - Basic: PLC programming environment
 
 Instalation:
-- The App can be built with "flet pack main_app.py" command in the Terminal
+- The App can be built with "flet pack main_app.py" in the Terminal
 
 License & Credits:
 - Developed by: Georgi Milenov Sokolov as Bachelor's Thesis, Technical University of Varna
