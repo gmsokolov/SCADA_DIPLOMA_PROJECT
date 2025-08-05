@@ -22,6 +22,9 @@ Technology Stack:
 - Modicon M221 PLC: Industrial automation controller
 - EcoStruxure Machine Expert - Basic: PLC programming environment
 
+Instalation:
+- The App can be built with "flet pack main_app.py" command in the Terminal
+
 License & Credits:
 - Developed by: Georgi Milenov Sokolov as Bachelor's Thesis, Technical University of Varna
 - Licensed for academic and personal use
